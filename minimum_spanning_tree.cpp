@@ -2,6 +2,7 @@
 // Header:                                                                                       //
 //  Homework 3 - C++ for C Programmers - Coursera 2013                                           //
 //                                                                                               //
+//  Created by Salehe Erfanian Ebadi - s.erfanianebadi@qmul.ac.uk                                //
 // Purpose:                                                                                      //
 //  This C++ program calculates the Prim's algorithm for a Minimum Spanning Tree                 //
 //                                                                                               //
